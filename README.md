@@ -1,2 +1,3 @@
-# hello-world-memstate
-A hello world to test Memstate (https://memstate.io/)
+# Hello World Memstate
+
+:books: A hello world to learn [Memstate](https://memstate.io/)
