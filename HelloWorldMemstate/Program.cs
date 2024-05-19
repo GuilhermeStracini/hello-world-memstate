@@ -1,4 +1,4 @@
-﻿using Memstate;
+using Memstate;
 using System;
 using System.Threading.Tasks;
 
@@ -6,7 +6,6 @@ namespace HelloWorldMemstate
 {
     class Program
     {
-
         private const int Gbs = 34291019;
 
         private const int EdI = 05944298;
