@@ -1,4 +1,4 @@
-﻿using Memstate;
+using Memstate;
 using System;
 
 namespace HelloWorldMemstate
@@ -36,7 +36,6 @@ namespace HelloWorldMemstate
             model.Participants[ReceiverIspb] = newReceiver;
 
             return new TransferResult(newSender, newReceiver, Value);
-
         }
     }
 }
